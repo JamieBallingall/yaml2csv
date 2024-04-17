@@ -1,0 +1,12 @@
+- id: 001
+  name: Laptop
+  price: 800
+  quantity: 10
+- id: 002
+  name: Smartphone - ABC
+  price: null
+  quantity: 15
+- id: 003
+  name: Tablet
+  price: 450
+  quantity: 25
